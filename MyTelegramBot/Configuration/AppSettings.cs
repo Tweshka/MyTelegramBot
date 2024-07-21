@@ -20,5 +20,6 @@
         /// </summary>
         public string InputAudioFormat { get; set; }
         public string OutputAudioFormat { get; set; }
+        public float InputAudioBitrate { get; set; }
     }
 }
