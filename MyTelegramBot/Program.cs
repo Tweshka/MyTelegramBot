@@ -50,7 +50,7 @@ namespace UtilityBot
             return new AppSettings()
             {
                 DownloadsFolder = "C:\\Users\\Twe1ve\\Downloads",
-                BotToken = "7364659404:AAHcUN51Ug9QaoYjjISkIBtqFgF4QcKBnsA",
+                BotToken = "7130141344:AAGkky4bC_Yc71DHbyD2the9NYl6jX9BFXE",
                 AudioFileName = "audio",
                 InputAudioFormat = "ogg",
                 OutputAudioFormat = "wav",
